@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1590756301 source:c:\users\79085\desktop\rgr\main.cpp
+	"field.h"
+	<stdio.h>
+
+1590769473 c:\users\79085\desktop\rgr\field.h
+	<vector>
+	<fstream>
+	<string>
+	<utility>
+
+1590772278 source:c:\users\79085\desktop\rgr\field.cpp
+	"field.h"
+	<stdio.h>
+	<queue>
+
